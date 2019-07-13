@@ -1,0 +1,7 @@
+<library path="lib/libcluster_bbox_estimator">
+  <class name="pcl/ClusterBboxEstimator" type="ClusterBboxEstimator" base_class_type="nodelet::Nodelet">
+    <description>
+        ClusterBboxEstimator estimates bounding box fron euclidean cluster results
+    </description>
+  </class>
+</library>
